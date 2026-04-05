@@ -2,7 +2,7 @@
 
 
 ## Overview
-This Python 3 script updates TV show status in the Kodi database using data from The Movie Database (TMDb).<br>
+This Python 3 script updates TV show status in the Kodi database using data from The Movie Database (TMDb)<br>
 Kodi does not automatically refresh TV show status after scraping, which leads to outdated metadata over time.<br>
 This script ensures your library stays accurate.<br>
 
